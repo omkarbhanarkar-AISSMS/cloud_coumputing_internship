@@ -17,5 +17,5 @@ Implementation of IAM policies, secure storage and data encryption.
 ## Repository Structure
 
 - Task1 - Cloud storage implementation
-- Task - Cloud monitoring implementation
+- Task2 - Cloud monitoring implementation
 - Task4 - Cloud security implementation
